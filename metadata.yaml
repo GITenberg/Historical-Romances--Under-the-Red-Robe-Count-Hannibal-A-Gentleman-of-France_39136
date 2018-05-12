@@ -1,0 +1,36 @@
+_repo: Historical-Romances--Under-the-Red-Robe-Count-Hannibal-A-Gentleman-of-France_39136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: British writer Stanley J. Weyman is considered to be one of the foremost
+  practitioners of the historical romance genre. He spent years perfecting his craft
+  with short-form tales that were published in the most popular publications of the
+  day, and then moved on to novels and longer vignettes. This collection brings together
+  some of Weyman's most acclaimed works.
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courts and courtiers -- Fiction'
+- !lcsh 'Huguenots -- Fiction'
+- !lcc 'PR'
+- !lcsh 'France -- History -- Henry III, 1574-1589 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+title: 'Historical Romances: Under the Red Robe, Count Hannibal, A Gentleman of France'
+url: http://www.gutenberg.org/ebooks/39136
